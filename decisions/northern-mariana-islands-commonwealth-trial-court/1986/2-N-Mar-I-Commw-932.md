@@ -1,0 +1,37 @@
+---
+court: "Northern Mariana Islands Commonwealth Trial Court"
+docket: "CIVIL ACTION NO. 86-816"
+decided: "1986-12-10"
+citations: ["2 N. Mar. I. Commw. 932"]
+reporter: "n-mar-i-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OFFICE OF THE ATTORNEY GENERAL and THE OFFICE OF IMMIGRATION AND NATURALIZATION OF THE CNMI, Petitioners, vs. DANILO T. REYLES, Respondent."]
+source_url: "https://static.case.law/n-mar-i-commw/2/cases/0932-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342510
+cites_cases: ["42 U.S.C. § 1983"]
+---
+
+# Office of the Attorney General v. Reyles
+
+## Majority (Ramon G. Viliagomez, Assoc&~te/T~dge)
+
+ORDER GRANTING PETITION FOR DEPORTATION
+This matter came on for a hearing upon the petitioners' petition to show cause why the respondent should not be deported, on November 18, 1986 at which time the government appeared through the Immigration Officers and Mr. Smith. The respondent appeared through counsel, Mr. Yana. After arguments on both sides the court took the matter under advisement and hereby issues its decision.
+FACTUAL AND PROCEDURAL BACKGROUND
+The respondent was issued an entry permit to work in Saipan on July 10, 1986 and the same to expire on May 31, 1987. Upon a review of the respondent's files at the Labor and Immigration Offices, the Immigration Office held an administrative hearing on September 30, 1986 at which time the respondent was present. One purpose of the hearing was to give the respondent the opportunity to explain the discrepancies and inconsistencies between his own statements in affidavits filed with Labor and Immigration Offices in support of his application for entry permits.
+On October 1, 1986 the Chief of Immigration issued a letter to the respondent revoking respondent's entry permit and citing the factual basis and statutory basis therefor. The letter indicated that the respondent signed, under oath, blank application and affidavit forms and allowed, his agent in the Philippines to fill out the information in those documents. The letter gave the respondent 10 days in which to depart Saipan voluntarily, otherwise a court action would be taken. The respondent did not depart within the 10-day period.
+On. October 2, 1986 the respondent, through counsel filed with the Office of the Attorney General a petition for review of the decision of the Chief of Immigration. The Attorney General issued a decision on October 3, 1986 through the Assistant Attorney General, Eric Smith, confirming the decision of the Chief of Immigration. On the same day, respondent through counsel, wrote a letter to the Attorney General requesting a reconsideration of the appeal in that Mr. Smith, who issued the decision affirming the decision of the Chief of -Immigration, had a conflict of interest in that he also acted as counsel for the Chief and the Immigration Office. In response to such request for reconsideration the Office of the attorney General', again through Mr. Eric Smith, denied the request for reconsideration on October 27, 1986.
+On October 27, 1986 the government, through the Attorney General and Immigration Office filed its petition- to show cause why the respondent should not be deported after having his entry permit revoked. The petition was set for a hearing on November 18, 1986. On November 17, 1986 the respondent filed his answer to the petition for deportation together with affirmative defenses and a counterclaim based on 42 U.S.C. § 1983 and 1988.
+After hearing both parties on November 18, 1986 the parties stipulated to the admission into evidence of letters between the parties, the decision of the Chief of Immigration revoking respondent's entry permit, the appeal thereof to the Office of the Attorney General, the decision of the Attorney General affirming the Chief's decision, the petition for reconsideration, and the decision denying the request for reconsideration.
+DISCUSSION
+This proceeding having been started by á hearing before the Office of Immigration followed by its decision revoking respondent's entry permit, followed by an appeal to the Attorney General, and finally being presented to the court to enforce the decision of the Office of Immigration by deporting the respondent, the court considers and treats this case as a judicial review of an administrative decision pursuant to 1 CMC § 9112. The respondent was specifically and expressly informed that.his failure to comply with the order of the Immigration would result in the matter being brought to court and that has been the case.
+The laws cited by the Chief of Immigration as basis for his decision, 3 CMC § <3304 and 4305 have been repealed by Public Law Mo. 3-105 and are no longer valid in the CNMI. However, the Office of Immigration has the power and authority to revoke any license or permit which it issues pursuant to 1 CMC § 9111(b] {See also 74 AmJur2d, Administrative Law, § 74). Where, after a hearing, the Office of Immigration finds that the applicant for a permit has misrepresented facts to the agency in the application for such permit, that constitutes proper grounds for revocation of the permit. (3 CMC § 4332(a)(1))
+The Office of Immigration has licensing authority in that it may issue entry permits pursuant to 3 CMC i 4311(c)(3), 1 CMC § 9101(g) provides that licensing includes the grant, renewal, or revocation of a license. 1 CMC § 9191(f) provides that a license includes permit issued by an agency. Therefore, there is ample legal authority that the Immigration may revoke licenses or permits which it issues on proper grounds.
+Jt is undisputed that the respondent provided to the Immigration Office inconsistent information and discrepancies between documents submitted in support of his applications for entry permits. That constitutes ground for not only denial of the application but revocation thereof, if such fact is found after the issuance of the permit. The practice of an applicant signing a blank application form and leaving it entirely to an agent to provide the personal data and information in the application and the sworn affidavit-of the applicant is totally unacceptable and is viewed with disapproval by this court. The court holds, both the person who.signs the blank affidavit and the agent, responsible for any misrepresentation or wrong information being given to the-CNMI agency.
+Although the court finds that the Office of the Attorney General had proper basis for affirming the decision of the Chief of Immigration, the court does feel that it is'inappropriate for the Assistant Attorney General representing the .Office of Immigration and advising the Chief of Immigration to be the same person reviewing any appeal from that Office or that officer. The Attorney General should have made the review and decision himself or refer the matter to a designee who does not directly or indirectly advise and represent the Immigration Office.
+The court finds and concludes that the decision of the Chief of Immigration was not arbitrary, capricious, or an abuse of discretion and hereby affirms such decision and finds the respondent to be deportable in that-his entry permit has been properly revoked.
+The respondent is hereby given 10 days in which to voluntarily depart the CNMI. Otherwise, he may be arrested and deported immediately thereafter.
+ENTERED this /~+L~day of ___________________ 1986.
+Ramon G. Viliagomez, Assoc&~te/T~dge
