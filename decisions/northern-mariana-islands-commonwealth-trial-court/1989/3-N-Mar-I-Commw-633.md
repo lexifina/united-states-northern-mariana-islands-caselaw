@@ -1,0 +1,32 @@
+---
+court: "Northern Mariana Islands Commonwealth Trial Court"
+docket: "CIVIL ACTION NO. 88-665(I)"
+decided: "1989-03-06"
+citations: ["3 N. Mar. I. Commw. 633"]
+reporter: "n-mar-i-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OFFICE OF THE ATTORNEY GENERAL AND THE OFFICE OF IMMIGRATION AND NATURALIZATION OF THE COMMONWEALTH OF THE NORTHERN MARIANA ISLANDS, Petitioners, vs. VAN MAURICE TRAN, Respondent."]
+source_url: "https://static.case.law/n-mar-i-commw/3/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342187
+---
+
+# Office of the Attorney General v. Tran
+
+## Majority
+
+ORDER
+Respondent'a motion to amend the Deportation Order or declare that the Attorney GeneraL has no authority to impose a condition of no work on the Respondent came before the Court for a hearing on February 28, I9ad in Courtroom C, at which time the Respondent was present with counsel, Mr. Hill, and the Government appeared through Mr. Smith, At the conclusion of the hearing, the Court took the matter under advisement.
+The Respondent in chis ’.’ase came to Saipan as a tourist and i .'.'.-.-ed ..m entry pen.-.it v-.hirh expired on September l, 1983. The Perpondent remained in Saipan after the expiration of his tourist entry permit.
+On September 21, 1988, the Petitioners filed their Petition for an Order to Show Cause why the Respondent should not be deported tor having overstayed his tourist entry permit. On November 15, 1988, this Court entered an order deporting the Respondent and directing the Petitioners to place the Respondent on the first available flight to a country that would allow entry for him. Since the Respondent has attempted to apply for political asylum in the United States and no country has been found who would accept him under the CNMI deportation, the Respondent has remained in the Commonwealth until the present.
+On November 30, 1988, the Respondent filed a notice of appeal, appealing the Order of Deportation to the Appellate Division of the District Court. The Respondent also filed a motion asking the Court to stay execution of the Deportation Order and on December 14, 1988, the Court issued an order denying the Motion for Stay after a hearing held on December 13, 1988. The case on appeal was dismissed by stipulation of the parties on January 31, 1989. Twenty-four days Later on February 24, 1989, the Respondent filed his Motion to Amend the Deportation Order or for a Declaratory Relief. The Petitioners oppose and object such motion.
+The issue before the Court is whether the Respondent should be permitted to be employed in the Commonwealth pending his actual deportation from the Commonwealth.
+However, before the Court entertains the substantive issue in this matter, there is a procedural issue that has to be addressed first. That is, whether the Respondent has complied with the Rules of the Court in seeking an amendment to a Deportation Order.
+The Deportation Order is a final judgnient of the Court and is appealable to the Appellate Division of the District Court. In this case, the Respondent did appeal such an order. Rule 59, Commonwealth Rules of Civil Procedure, provides that any motion for a new trial or amendment to a judgment shall be filed within 10 days from the entry of judgment. In this case, the Deportation Order was issued on November 15, 1988 and the Motion for Amendment thereto was filed on February 24, 1989, much later than 10 days. Even if the Court were to start counting the days after the appeal was dismissed on January 81, 1989, the Respondent's motion is still too late.
+Furthermore, even if the Court were to consider the substantive issue in this motion, the Respondent cannot be granted the relief he is seeking.
+It is undisputed that the Respondent is not a U.S. citizen or national and has no right to be in the Commonwealth. Commonwealth laws provide, "No alien may seek ..or obtain entry into the Commonwealth as a matter of right. Entry to the Commonwealth is a privilege extended to aliens only upon such terms and conditions as may be prescribed by law." 3 CMC 4302 (b) . Since the Respondent entered the Commonwealth as a tourist, he is specifically prohibited by statute from being employed in the Commonwealth. Our laws further provide, "No entry permit shall be modified, nor shall a non-resident worker certificate be issued, which would permit a person who has entered the Commonwealth as a visitor or tourist to be employed in the Commonwealth." 3 CMC 4332(b)(4).
+Although the Respondent argues that the Non-Resident Worker's Act does not apply to him, there is no other law under which he could possibly work in the Commonwealth and the definition of "non-resident worker" seems to fit his situation. "'Non-resident worker' means any available individual who is at least 18 years old and who is capable of performing services or labor desired by an employer and who is not a resident worker." 3 CMC 4412(i). In this case, the Respondent is an Individual, over the age of 18, who is available and capable of performing services desired by an employer and he is not a resident worker. A resident worker is defined as, "... any available individual who is capable of performing services or labor desired by an employer, and who is a c 11 i zen or national uf the United States...." 3 CMC 4412(n) (empahsis added). The difference between a resident and a non-resident worker is that one is a U.S. citizen or national and the other is not.
+The employment of the Respondent by any employer would be in violation of commonwealth statute and such employer may be subjected to criminal prosecution. 3 CMC 4413 provides that, "No employer shall hire, employ, or otherwise engage for compensation, any nonresident worker to perform services or labor in the Commonwealth except in strict accordance with the provisions of this chapter...." "Any person who violates any provision of this chapter ... shall, upon conviction, be punished by a fine of not more than $5,000.00 or by imprisonment for not more than one year or both." 3 CMC 4447(e).
+Not only has the Respondent failed to file his motion to amend the deportation order within the time required by the Rules of the Court, but also, to allow him to work pending his actual deportation will be in violation of Commonwealth laws as set forth above.
+IT IS HEREBY ORDERED that the Motion to Amend the Order of Deportation ir. hereby DENIED,
